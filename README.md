@@ -10,6 +10,7 @@ url_path <- 'https://www.ncei.noaa.gov/data/avhrr-land-normalized-difference-veg
  * resolution 0.05 degrees (3-5 km)
  * daily time step
  * ndvi value is scaled with a factor = `0.0001` (e.g. 54356 = 0.54356)
+ * ` time:units = "days since 1981-01-01 00:00:00"`
 
 ## Notes
 
