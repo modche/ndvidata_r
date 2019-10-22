@@ -1,6 +1,7 @@
 # ndvidata_r
 Download and process NDVI data from www.ncei.noaa.gov
-Flyer: https://www1.ncdc.noaa.gov/pub/data/sds/cdr/CDRs/Normalized%20Difference%20Vegetation%20Index/CDR_Flyer_01B-20b.pdf
+
+[Flyer.pdf](https://www1.ncdc.noaa.gov/pub/data/sds/cdr/CDRs/Normalized%20Difference%20Vegetation%20Index/CDR_Flyer_01B-20b.pdf)
 ```{r}
 url_path <- 'https://www.ncei.noaa.gov/data/avhrr-land-normalized-difference-vegetation-index/access/'
 ```
