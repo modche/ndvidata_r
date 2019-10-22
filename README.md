@@ -22,3 +22,7 @@ url_path <- 'https://www.ncei.noaa.gov/data/avhrr-land-normalized-difference-veg
 ## Notes
 
 2018 is so far (2019-10-22) priliminary data.
+
+## Example (Germany)
+
+![](demo_ndvi.png)
